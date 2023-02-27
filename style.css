@@ -1,0 +1,32 @@
+body 
+{
+background-color: aquamarine;
+}
+.player
+{
+   align-items: center;
+    text-align: center;
+width: 360px;
+    background-color: bisque;
+
+}
+#username
+{
+width: 40%;
+height: 10%;
+font-family: 'Times New Roman', Times, serif;
+font-size: 40;
+}
+#login
+{
+width:20%;
+height:10%;
+font-size: 30;
+background-color:blue;
+}
+#ee
+{
+font-style:bold;
+font-size:50px;
+font-family:'Times New Roman', Times, serif;
+}
